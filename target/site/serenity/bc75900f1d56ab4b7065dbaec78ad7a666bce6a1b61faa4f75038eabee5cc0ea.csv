@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Game test","This test will Get All Games","SUCCESS","2022-01-21T19:01:02.693Z[Europe/London]","0.0","7.97"
+"Game test","This test will Get timestamp detail","SUCCESS","2022-01-21T19:01:10.755Z[Europe/London]","0.0","1.22"
